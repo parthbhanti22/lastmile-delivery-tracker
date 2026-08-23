@@ -1,0 +1,9 @@
+name = "lastmile-delivery-api"
+main = "src/index.ts"
+compatibility_date = "2026-08-22"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "lastmile_db"
+database_id = "f75fd3ff-a738-4f49-b3c2-4cd5757a1d99"
